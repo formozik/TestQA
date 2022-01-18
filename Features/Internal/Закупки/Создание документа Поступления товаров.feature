@@ -1,8 +1,8 @@
 ﻿#language: ru
-@ExportScenarios
-@IgnoreOnClMainBuild
 
 @tree
+@ExportScenarios
+@IgnoreOnClMainBuild
 
 Функционал: создание документа Поступления товаров
 

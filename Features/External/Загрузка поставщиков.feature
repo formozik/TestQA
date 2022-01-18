@@ -1,7 +1,8 @@
 ﻿#language: ru
 
 @tree
-
+@ExportScenarios
+@IgnoreOnClMainBuild
 
 Функционал: Загрузка поставщиков
 
